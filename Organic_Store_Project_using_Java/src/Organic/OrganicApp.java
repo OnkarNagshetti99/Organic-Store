@@ -232,8 +232,9 @@ public class OrganicApp {
 						int Final = a.Total - dis;
 						System.out.println("you recived a discout of 5% : " + dis);
 						System.out.println("Final bill is :" + Final);
-						System.out.println("=========Thank you so much for shopping you saved " + dis + "rs=====");
+						System.out.println("=========Thank you so much for shopping you saved " + dis + "RS=====");
                         System.out.println("===============JAVA IS AWESOME===========");
+						System.out.println("HAVE A GOOD DAY !")
 
 					}
 					break;
@@ -269,8 +270,9 @@ public class OrganicApp {
 						System.out.println("you recived a discout of 5% : " + dis);
 						System.out.println("Final bill is :" + Final);
 
-						System.out.println("=========Thank you so much for shopping you saved " + dis + "rs=====");
+						System.out.println("=========Thank you so much for shopping you saved " + dis + " RS =====");
                         System.out.println("===============JAVA IS AWESOME===========");
+						System.out.println("HAVE A GOOD DAY !")
 
 					}
 
